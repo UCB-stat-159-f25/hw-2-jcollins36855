@@ -40,4 +40,8 @@ dwindow = signal.windows.tukey(template.size, alpha=1./8)
 # if you need the Blackman fallback:
 # dwindow = signal.windows.blackman(template.size)
 
+7. how to git ignore .png files
+7A. touch .gitignore
+*.png
+
 
