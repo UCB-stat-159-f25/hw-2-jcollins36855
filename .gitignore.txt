@@ -1,0 +1,6 @@
+#Ignore outputs
+
+*.png
+*.csv
+*.wav
+
